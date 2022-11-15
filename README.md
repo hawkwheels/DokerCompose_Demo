@@ -4,5 +4,5 @@ Docker compose file which spawn up mongo and then connect with mongo-express wit
 ### docker-compose command to build 
 `docker-compose -f docker-compose.yaml up`
 
-### docker-compose command to build 
+### docker-compose command to destroy  
 `docker-compose -f docker-compose.yaml down`
